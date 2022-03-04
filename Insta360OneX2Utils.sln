@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insta360OneX2Utils", "Insta360OneX2Utils\Insta360OneX2Utils.csproj", "{FDC9CF70-3162-445A-B82E-6AA935D345B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC9CF70-3162-445A-B82E-6AA935D345B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC9CF70-3162-445A-B82E-6AA935D345B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC9CF70-3162-445A-B82E-6AA935D345B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC9CF70-3162-445A-B82E-6AA935D345B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
